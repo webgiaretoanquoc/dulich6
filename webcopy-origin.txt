@@ -1,0 +1,2104 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/i18n/datepicker-vi.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\i18n\datepicker-vi.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-bg_diagonals-thick_18_b81900_40x40.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-bg_diagonals-thick_20_666666_40x40.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-bg_flat_10_000000_40x100.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-bg_flat_10_000000_40x100.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-bg_glass_100_f6f6f6_1x400.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-bg_glass_100_fdf5ce_1x400.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-bg_gloss-wave_35_f6a828_500x100.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-bg_highlight-soft_100_eeeeee_1x100.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-bg_highlight-soft_75_ffe45c_1x100.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-icons_222222_256x240.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-icons_228ef1_256x240.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-icons_228ef1_256x240.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-icons_ef8c08_256x240.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-icons_ef8c08_256x240.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-icons_ffd27a_256x240.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-icons_ffd27a_256x240.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/ui-lightness/jquery-ui.min.css?ver=1.11.4
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ajax\libs\jqueryui\1.11.4\themes\ui-lightness\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/bao-mat-thong-tin-khach-hang/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\bao-mat-thong-tin-khach-hang\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/book-ve-may-bay/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\book-ve-may-bay\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/book-ve-may-bay/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\book-ve-may-bay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/category/cam-nang-du-lich/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\category\cam-nang-du-lich\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/category/cam-nang-du-lich/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\category\cam-nang-du-lich\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/category/dich-vu-du-lich/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\category\dich-vu-du-lich\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/category/dich-vu-du-lich/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\category\dich-vu-du-lich\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/chinh-sach-quy-dinh/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\chinh-sach-quy-dinh\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/dieu-kien-dieu-khoan/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\dieu-kien-dieu-khoan\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/kinh-nghiem-khi-di-du-lich-phu-quoc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\kinh-nghiem-khi-di-du-lich-phu-quoc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/kinh-nghiem-khi-di-du-lich-phu-quoc/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\kinh-nghiem-khi-di-du-lich-phu-quoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/kinh-nghiem-khi-di-vinpearl-land-vinpearl-safari-phu-quoc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\kinh-nghiem-khi-di-vinpearl-land-vinpearl-safari-phu-quoc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/kinh-nghiem-khi-di-vinpearl-land-vinpearl-safari-phu-quoc/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\kinh-nghiem-khi-di-vinpearl-land-vinpearl-safari-phu-quoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/nhung-dac-san-khong-the-bo-qua-khi-den-phu-quoc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\nhung-dac-san-khong-the-bo-qua-khi-den-phu-quoc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/nhung-dac-san-khong-the-bo-qua-khi-den-phu-quoc/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\nhung-dac-san-khong-the-bo-qua-khi-den-phu-quoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/phuong-thuc-thanh-toan/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\phuong-thuc-thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/air-blade-125cc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\air-blade-125cc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/ariblade-2013-fi/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\ariblade-2013-fi\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/bang-gia-dich-vu-sao-chep/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\bang-gia-dich-vu-sao-chep\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/blade-110cc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\blade-110cc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/cano/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\cano\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/chevrolet-trailblazer/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\chevrolet-trailblazer\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/ford-transit/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\ford-transit\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/honda-city/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\honda-city\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/honda-sh/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\honda-sh\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/honda-wave-rsx/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\honda-wave-rsx\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/honda-winner/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\honda-winner\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/huyndai-i10/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\huyndai-i10\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/inova/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\inova\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/kia-4-cho-soluto-at-2020/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\kia-4-cho-soluto-at-2020\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/lead-125cc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\lead-125cc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/mitsubishi-xpander/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\mitsubishi-xpander\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/nouvo-4-lx/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\nouvo-4-lx\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/novo6-fi/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\novo6-fi\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-cano-4-dao-5-dao-cap-treo-phu-quoc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-cano-4-dao-5-dao-cap-treo-phu-quoc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-cau-ca-va-lan-ngam-san-ho-bac-dao/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-cau-ca-va-lan-ngam-san-ho-bac-dao\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-cau-ca-va-lan-ngam-san-ho-nam-dao/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-cau-ca-va-lan-ngam-san-ho-nam-dao\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-cau-muc-dem-ngam-hoang-hon/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-cau-muc-dem-ngam-hoang-hon\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-kham-pha-bac-dao-vinpearl-land-safari/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-kham-pha-bac-dao-vinpearl-land-safari\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-kham-pha-hon-mong-tay-dam-ngang-hoac-may-rut/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-kham-pha-hon-mong-tay-dam-ngang-hoac-may-rut\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-kham-pha-nam-dao-cap-treo-phu-quoc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-kham-pha-nam-dao-cap-treo-phu-quoc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-phu-quoc-2n1d-tham-quan-cau-ca-lan-ngam-san-ho/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-phu-quoc-2n1d-tham-quan-cau-ca-lan-ngam-san-ho\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-phu-quoc-2n1d-tham-quan-dong-nam-dao-tren-bo/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-phu-quoc-2n1d-tham-quan-dong-nam-dao-tren-bo\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-phu-quoc-3n2d-dac-biet-kham-pha-dao-hoang/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-phu-quoc-3n2d-dac-biet-kham-pha-dao-hoang\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-phu-quoc-3n2d-kham-pha-lan-ngam-san-ho/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-phu-quoc-3n2d-kham-pha-lan-ngam-san-ho\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-phu-quoc-4n3d-full-lan-ngam-san-ho-vinpearl/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-phu-quoc-4n3d-full-lan-ngam-san-ho-vinpearl\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-phu-quoc-4n3d-full-vinwonders/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-phu-quoc-4n3d-full-vinwonders\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-phu-quoc-4n3d-lan-ngam-san-ho-vinwonders/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-phu-quoc-4n3d-lan-ngam-san-ho-vinwonders\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-phu-quoc-4n3d-tham-quan-quanh-dao-vinwonders/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-phu-quoc-4n3d-tham-quan-quanh-dao-vinwonders\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/tour-tham-quan-1-ngay-dong-nam-phu-quoc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\tour-tham-quan-1-ngay-dong-nam-phu-quoc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/toyota-avanza/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\toyota-avanza\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/toyota-fortuner/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\toyota-fortuner\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/vios-4-cho-at/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\vios-4-cho-at\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/yamaha-exciter-150-rc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\yamaha-exciter-150-rc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/yamaha-novou-5/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\yamaha-novou-5\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/yamaha-nozza/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\yamaha-nozza\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/san-pham/yamaha-sirius-rc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\san-pham\yamaha-sirius-rc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/thue-cano-phu-quoc/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\thue-cano-phu-quoc\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/thue-cano-phu-quoc/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\thue-cano-phu-quoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/thue-tau-cau/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\thue-tau-cau\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/thue-tau-cau/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\thue-tau-cau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/thue-xe-may/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\thue-xe-may\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/thue-xe-may/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\thue-xe-may\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/thue-xe-may/page/2/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\thue-xe-may\page\2\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/thue-xe-tu-lai/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\thue-xe-tu-lai\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/thue-xe-tu-lai/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\thue-xe-tu-lai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/thue-xe/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\thue-xe\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/thue-xe/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\thue-xe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/tour-tron-goi/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\tour-tron-goi\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/tour-tron-goi/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\tour-tron-goi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/tour-trong-ngay/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\tour-trong-ngay\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/tour-trong-ngay/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\tour-trong-ngay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/ve-cap-treo/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ve-cap-treo\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/ve-cap-treo/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ve-cap-treo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/ve-vinpearlland/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ve-vinpearlland\index.htm
+Content Type: text/html
+
+Uri: https://dulich6.webtudong8giay.com/ve-vinpearlland/feed/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\ve-vinpearlland\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-admin\js\password-strength-meter.min-1.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-sliderAccess.js?ver=6.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\contact-form-7-datepicker\js\jquery-ui-sliderAccess.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-sliderAccess.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\contact-form-7-datepicker\js\jquery-ui-sliderAccess-1.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/i18n/jquery-ui-timepicker-vi.js?ver=6.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\contact-form-7-datepicker\js\jquery-ui-timepicker\i18n\jquery-ui-timepicker-vi.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/i18n/jquery-ui-timepicker-vi.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\contact-form-7-datepicker\js\jquery-ui-timepicker\i18n\jquery-ui-timepicker-vi-1.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\contact-form-7-datepicker\js\jquery-ui-timepicker\jquery-ui-timepicker-addon.min.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\contact-form-7-datepicker\js\jquery-ui-timepicker\jquery-ui-timepicker-addon.min-1.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\contact-form-7-datepicker\js\jquery-ui-timepicker\jquery-ui-timepicker-addon.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\contact-form-7-datepicker\js\jquery-ui-timepicker\jquery-ui-timepicker-addon.min-1.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=6.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\related-posts-by-taxonomy\includes\assets\css\styles.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\related-posts-by-taxonomy\includes\assets\css\styles-1.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/web2s-vn/fonts/UTM Avo.svg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\web2s-vn\fonts\UTM Avo.svg
+Content Type: image/svg+xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/web2s-vn/fonts/UTM Avo.ttf
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\web2s-vn\fonts\UTM Avo.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/web2s-vn/fonts/UTM Avo.woff
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\web2s-vn\fonts\UTM Avo.woff
+Content Type: application/x-font-woff
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/web2s-vn/fonts/utm-avobold.woff
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\web2s-vn\fonts\utm-avobold.woff
+Content Type: application/x-font-woff
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/themes/web2s-vn/style.css?ver=3.9
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\themes\web2s-vn\style.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/027-7213.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\027-7213.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/10_oGt1q4dT-280x280.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\10_oGt1q4dT-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/12_qYXrQVK2-280x280.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\12_qYXrQVK2-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/164029-pr6_a1-280x280.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\164029-pr6_a1-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/1D39FF9F-C06C-49C8-A09D-A12C1C9B1D90.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\1D39FF9F-C06C-49C8-A09D-A12C1C9B1D90.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/200867DD-41FA-4E6B-AA1C-F5A42BF2358B.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\200867DD-41FA-4E6B-AA1C-F5A42BF2358B.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/20_Il2XZZCm-247x296.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\20_Il2XZZCm-247x296.png
+Content Type: image/png
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/20_Il2XZZCm.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\20_Il2XZZCm.png
+Content Type: image/png
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/27D9C007-B9CF-4751-9581-366C10999EF5.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\27D9C007-B9CF-4751-9581-366C10999EF5.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/2A1E6479-AD13-4DCC-B3CE-CB6AA12AD0DD-247x296.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\2A1E6479-AD13-4DCC-B3CE-CB6AA12AD0DD-247x296.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/2A1E6479-AD13-4DCC-B3CE-CB6AA12AD0DD.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\2A1E6479-AD13-4DCC-B3CE-CB6AA12AD0DD.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/3564A428-C38C-4AE3-AE6D-903E704D1C6E-scaled.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\3564A428-C38C-4AE3-AE6D-903E704D1C6E-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/3C47C629-E550-4444-9648-D4E4527BF0E8.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\3C47C629-E550-4444-9648-D4E4527BF0E8.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/4003A85B-5055-4C58-B503-92C0CEB2DE8A.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\4003A85B-5055-4C58-B503-92C0CEB2DE8A.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/54371195-4B55-4BE6-A883-A463A010029F.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\54371195-4B55-4BE6-A883-A463A010029F.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/5A6787A6-C0DC-45C2-8257-30A663CA0863-scaled.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\5A6787A6-C0DC-45C2-8257-30A663CA0863-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/5EC2B357-2232-4428-992A-139067721FB3.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\5EC2B357-2232-4428-992A-139067721FB3.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/6BB1456D-7DD5-4A23-A769-B27CF39DBCDA-scaled.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\6BB1456D-7DD5-4A23-A769-B27CF39DBCDA-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/8A3BBDE9-7177-4583-BEB6-EE872B30BEA8.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\8A3BBDE9-7177-4583-BEB6-EE872B30BEA8.png
+Content Type: image/png
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/8_LoZyUJBF.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\8_LoZyUJBF.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/9001DB8B-7E6A-4C9A-8E47-F8972A1098D3.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\9001DB8B-7E6A-4C9A-8E47-F8972A1098D3.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/9BC6B1CA-F3E6-4CD2-8F33-E570F7B170F2.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\9BC6B1CA-F3E6-4CD2-8F33-E570F7B170F2.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/A07AF0A3-A77E-4455-918B-4A2808660AB6.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\A07AF0A3-A77E-4455-918B-4A2808660AB6.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/A28BA25B-6C16-47AB-B6BD-E129C111F526.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\A28BA25B-6C16-47AB-B6BD-E129C111F526.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/a3toan-canh-14442019.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\a3toan-canh-14442019.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/AE758DED-990C-49E1-85B4-910D4D931EA9.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\AE758DED-990C-49E1-85B4-910D4D931EA9.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/anh-bia-nam-dao-cap-treo-1-352020_360x360.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\anh-bia-nam-dao-cap-treo-1-352020_360x360.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/anh-bia-tour-2-dao-1-352020_360x360.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\anh-bia-tour-2-dao-1-352020_360x360.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/anh-bia-tour-cau-ca-nam-dao-1-352020_360x360-247x240.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\anh-bia-tour-cau-ca-nam-dao-1-352020_360x360-247x240.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/anh-bia-tour-cau-ca-nam-dao-1-352020_360x360.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\anh-bia-tour-cau-ca-nam-dao-1-352020_360x360.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/bai-sao-phu-quoc-247x296.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\bai-sao-phu-quoc-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/bai-sao-phu-quoc-dep.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\bai-sao-phu-quoc-dep.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/bai-sao-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\bai-sao-phu-quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/BDF1F1C9-E24E-412B-BC5A-5D5AF28DED62-247x296.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\BDF1F1C9-E24E-412B-BC5A-5D5AF28DED62-247x296.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/BDF1F1C9-E24E-412B-BC5A-5D5AF28DED62.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\BDF1F1C9-E24E-412B-BC5A-5D5AF28DED62.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/Cau-ca-PQ-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Cau-ca-PQ-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/Cau-ca-PQ.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Cau-ca-PQ.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/Cau-muc-1-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Cau-muc-1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/cau-muc-dem-phu-quoc-247x296.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\cau-muc-dem-phu-quoc-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/cau-muc-dem-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\cau-muc-dem-phu-quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/cau-muc-dem.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\cau-muc-dem.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/Cau-muc-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Cau-muc-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/chua-ho-quoc-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\chua-ho-quoc-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/collage_photocat4.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\collage_photocat4.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/collage_photocat5-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\collage_photocat5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/collage_photocat6.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\collage_photocat6.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/D25DBB71-4EF8-4665-A52A-D7A1D157D09A.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\D25DBB71-4EF8-4665-A52A-D7A1D157D09A.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/DEBE7743-11E5-4800-B91D-395072E88E0F.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\DEBE7743-11E5-4800-B91D-395072E88E0F.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/den_tho_nguyen_trung_truc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\den_tho_nguyen_trung_truc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/exciter-150-rc.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\exciter-150-rc.png
+Content Type: image/png
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/hon-dam-ngang-247x296.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\hon-dam-ngang-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/hon-dam-ngang.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\hon-dam-ngang.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/honmongtay-dulichannam.com-14.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\honmongtay-dulichannam.com-14.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/icon-chat-messenger.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\icon-chat-messenger.png
+Content Type: image/png
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/icon-chat-zalo.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\icon-chat-zalo.png
+Content Type: image/png
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/image-1-5-280x280.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\image-1-5-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/lan-ngam-san-ho-phu-quoc-247x296.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\lan-ngam-san-ho-phu-quoc-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/lan-ngam-san-ho-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\lan-ngam-san-ho-phu-quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/lead-125cc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\lead-125cc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/nha-thung-san-xuat-nuoc-mam-phu-quoc-e1610734168814.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\nha-thung-san-xuat-nuoc-mam-phu-quoc-e1610734168814.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/phone-icon.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\phone-icon.png
+Content Type: image/png
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/protected_1571318984_724608266892466315665803809603663333163008n.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\protected_1571318984_724608266892466315665803809603663333163008n.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/rsz_cau-ca-phu-quoc-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\rsz_cau-ca-phu-quoc-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/rsz_cau-ca-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\rsz_cau-ca-phu-quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/rsz_nuoi-ngoc-trai-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\rsz_nuoi-ngoc-trai-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/rsz_nuoi-ngoc-trai.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\rsz_nuoi-ngoc-trai.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/safari_phu_quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\safari_phu_quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/sirius-rc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\sirius-rc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/suoi_tranh_phu_quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\suoi_tranh_phu_quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/tau-cau-ca-lan-ngam-san-ho-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\tau-cau-ca-lan-ngam-san-ho-phu-quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/tau-du-lich-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\tau-du-lich-phu-quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/Tau-Nho-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Tau-Nho-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/tf_170812032421_614774.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\tf_170812032421_614774.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/tour-cap-treo-1-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\tour-cap-treo-1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/tour-cap-treo-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\tour-cap-treo-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/tour-du-lich-phu-quoc-1-ngay-lan-bien-ngam-san-ho-cau-ca-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\tour-du-lich-phu-quoc-1-ngay-lan-bien-ngam-san-ho-cau-ca-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/tour-phu-quoc-trong-ngay-tham-quan-dong-nam-dao-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\tour-phu-quoc-trong-ngay-tham-quan-dong-nam-dao-phu-quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/vinpearland-phuquoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\vinpearland-phuquoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/vinwonder-phu-quoc-1-2133.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\vinwonder-phu-quoc-1-2133.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/vinwonders-phu-quoc-disneyland-vietnam-da-xuat-hien-kenhphuquoc-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\vinwonders-phu-quoc-disneyland-vietnam-da-xuat-hien-kenhphuquoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/07/vuon_tieu_phu_quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\vuon_tieu_phu_quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/08/0B709CCB-5EA3-42D4-9747-C5DC23917EF8-scaled.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\08\0B709CCB-5EA3-42D4-9747-C5DC23917EF8-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/08/858ED2F1-7AC0-4E7B-86CE-D9DD760A8D0F.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\08\858ED2F1-7AC0-4E7B-86CE-D9DD760A8D0F.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/08/EE7CEB31-AB62-4AFD-9AA2-0AF8E2276EED.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\08\EE7CEB31-AB62-4AFD-9AA2-0AF8E2276EED.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/08/pPP5c6_simg_de2fe0_500x500_maxb.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\08\pPP5c6_simg_de2fe0_500x500_maxb.jpg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2020/12/EA45D4DC-8003-4A41-83BA-E3F45FA1038C-scaled.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\12\EA45D4DC-8003-4A41-83BA-E3F45FA1038C-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulich6.webtudong8giay.com/wp-content/uploads/2021/01/logo-dh.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2021\01\logo-dh.png
+Content Type: image/png
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\jquery\ui\button.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\jquery\ui\checkboxradio.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\jquery\ui\controlgroup.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\jquery\ui\datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\jquery\ui\slider.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://dulich6.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fbao-mat-thong-tin-khach-hang%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-100
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fbao-mat-thong-tin-khach-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-101
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fbook-ve-may-bay%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fbook-ve-may-bay%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fchinh-sach-quy-dinh%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-102
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fchinh-sach-quy-dinh%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-103
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fdieu-kien-dieu-khoan%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-96
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fdieu-kien-dieu-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-97
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fkinh-nghiem-khi-di-du-lich-phu-quoc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-108
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fkinh-nghiem-khi-di-du-lich-phu-quoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-109
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fkinh-nghiem-khi-di-vinpearl-land-vinpearl-safari-phu-quoc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-106
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fkinh-nghiem-khi-di-vinpearl-land-vinpearl-safari-phu-quoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-107
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fnhung-dac-san-khong-the-bo-qua-khi-den-phu-quoc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-110
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fnhung-dac-san-khong-the-bo-qua-khi-den-phu-quoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-111
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fphuong-thuc-thanh-toan%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-98
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fphuong-thuc-thanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-99
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fair-blade-125cc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fair-blade-125cc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fariblade-2013-fi%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fariblade-2013-fi%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fbang-gia-dich-vu-sao-chep%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-114
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fbang-gia-dich-vu-sao-chep%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-115
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fblade-110cc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fblade-110cc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fcano%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fcano%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fchevrolet-trailblazer%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fchevrolet-trailblazer%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fford-transit%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fford-transit%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fhonda-city%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fhonda-city%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fhonda-sh%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fhonda-sh%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fhonda-wave-rsx%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fhonda-wave-rsx%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fhonda-winner%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fhonda-winner%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fhuyndai-i10%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fhuyndai-i10%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Finova%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Finova%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fkia-4-cho-soluto-at-2020%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fkia-4-cho-soluto-at-2020%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Flead-125cc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Flead-125cc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fmitsubishi-xpander%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fmitsubishi-xpander%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fnouvo-4-lx%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-112
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fnouvo-4-lx%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-113
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fnovo6-fi%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fnovo6-fi%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-cano-4-dao-5-dao-cap-treo-phu-quoc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-78
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-cano-4-dao-5-dao-cap-treo-phu-quoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-79
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-cau-ca-va-lan-ngam-san-ho-bac-dao%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-cau-ca-va-lan-ngam-san-ho-bac-dao%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-cau-ca-va-lan-ngam-san-ho-nam-dao%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-cau-ca-va-lan-ngam-san-ho-nam-dao%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-cau-muc-dem-ngam-hoang-hon%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-cau-muc-dem-ngam-hoang-hon%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-kham-pha-bac-dao-vinpearl-land-safari%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-kham-pha-bac-dao-vinpearl-land-safari%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-kham-pha-hon-mong-tay-dam-ngang-hoac-may-rut%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-kham-pha-hon-mong-tay-dam-ngang-hoac-may-rut%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-kham-pha-nam-dao-cap-treo-phu-quoc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-76
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-kham-pha-nam-dao-cap-treo-phu-quoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-77
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-2n1d-tham-quan-cau-ca-lan-ngam-san-ho%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-84
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-2n1d-tham-quan-cau-ca-lan-ngam-san-ho%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-85
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-2n1d-tham-quan-dong-nam-dao-tren-bo%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-86
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-2n1d-tham-quan-dong-nam-dao-tren-bo%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-87
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-3n2d-dac-biet-kham-pha-dao-hoang%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-80
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-3n2d-dac-biet-kham-pha-dao-hoang%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-81
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-3n2d-kham-pha-lan-ngam-san-ho%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-82
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-3n2d-kham-pha-lan-ngam-san-ho%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-83
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-4n3d-full-lan-ngam-san-ho-vinpearl%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-90
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-4n3d-full-lan-ngam-san-ho-vinpearl%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-91
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-4n3d-full-vinwonders%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-88
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-4n3d-full-vinwonders%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-89
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-4n3d-lan-ngam-san-ho-vinwonders%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-92
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-4n3d-lan-ngam-san-ho-vinwonders%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-93
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-4n3d-tham-quan-quanh-dao-vinwonders%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-94
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-phu-quoc-4n3d-tham-quan-quanh-dao-vinwonders%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-95
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-tham-quan-1-ngay-dong-nam-phu-quoc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftour-tham-quan-1-ngay-dong-nam-phu-quoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftoyota-avanza%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftoyota-avanza%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftoyota-fortuner%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Ftoyota-fortuner%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fvios-4-cho-at%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fvios-4-cho-at%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fyamaha-exciter-150-rc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fyamaha-exciter-150-rc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fyamaha-novou-5%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fyamaha-novou-5%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fyamaha-nozza%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fyamaha-nozza%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fyamaha-sirius-rc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fsan-pham%2Fyamaha-sirius-rc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-104
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-105
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fthue-cano-phu-quoc%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fthue-cano-phu-quoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fthue-tau-cau%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fthue-tau-cau%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fthue-xe%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fthue-xe%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fve-cap-treo%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fve-cap-treo%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fve-vinpearlland%2F
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdulich6.webtudong8giay.com%2Fve-vinpearlland%2F&format=xml
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/categories/17
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\categories\17
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/categories/57
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\categories\57
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/pages/209
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\pages\209
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/pages/211
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\pages\211
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/pages/213
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\pages\213
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/pages/215
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\pages\215
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/pages/217
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\pages\217
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/pages/219
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\pages\219
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/pages/41
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\pages\41
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/posts/536
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\posts\536
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/posts/541
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\posts\541
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/posts/544
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\posts\544
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/posts/547
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\posts\547
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/posts/550
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\posts\550
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/posts/554
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\posts\554
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/posts/844
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\posts\844
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/posts/853
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\posts\853
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/posts/862
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\posts\862
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/1014
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\1014
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/1021
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\1021
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/1023
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\1023
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/1024
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\1024
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/1027
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\1027
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/1102
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\1102
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/1129
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\1129
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/1135
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\1135
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/1264
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\1264
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/1269
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\1269
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/608
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\608
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/612
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\612
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/613
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\613
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/614
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\614
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/616
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\616
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/618
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\618
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/620
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\620
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/625
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\625
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/626
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\626
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/692
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\692
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/700
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\700
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/726
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\726
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/744
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\744
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/759
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\759
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/775
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\775
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/797
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\797
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/818
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\818
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/820
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\820
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/824
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\824
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/826
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\826
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/830
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\830
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/832
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\832
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/834
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\834
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/836
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\836
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/838
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\838
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/916
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\916
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/918
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\918
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/920
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\920
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/922
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\922
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/963
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\963
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product/965
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product\965
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product_cat/24
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product_cat/26
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product_cat\26
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product_cat/27
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product_cat\27
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/product_cat/30
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\product_cat\30
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://dulich6.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/16C62108-EC1A-4F6D-BCF6-8FA62D87D2DC-scaled.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\16C62108-EC1A-4F6D-BCF6-8FA62D87D2DC-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/8-copya-1366x570-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\8-copya-1366x570-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/9652DDFB-A328-41D9-AA81-420D97FFF786-scaled.jpeg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\9652DDFB-A328-41D9-AA81-420D97FFF786-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/bai-bien-ong-lang-o-phu-quoc-2.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\bai-bien-ong-lang-o-phu-quoc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/bai-sao-phu-quoc-dep.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\bai-sao-phu-quoc-dep-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/bai-sao-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\bai-sao-phu-quoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/Bang-gia-o-to-co-lai-Phu-Quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Bang-gia-o-to-co-lai-Phu-Quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/Bang-gia-o-to-tu-lai-Phu-Quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Bang-gia-o-to-tu-lai-Phu-Quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/bang-gia-thue-cano-phu-quoc-572020.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\bang-gia-thue-cano-phu-quoc-572020.png
+Content Type: image/png
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/Capture123.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Capture123.png
+Content Type: image/png
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/Cau-ca-PQ-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Cau-ca-PQ-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/Cau-ca-PQ.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Cau-ca-PQ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/Cau-muc-1-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Cau-muc-1-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/cau-muc-dem-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\cau-muc-dem-phu-quoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/cau-muc-dem.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\cau-muc-dem-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/Cau-muc-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Cau-muc-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/cay-mat-cat-gai.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\cay-mat-cat-gai.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/chua-ho-quoc-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\chua-ho-quoc-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/collage_photocat4.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\collage_photocat4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/collage_photocat5-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\collage_photocat5-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/collage_photocat5.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\collage_photocat5.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/collage_photocat6.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\collage_photocat6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/Cong-vien-nuoc-vinpearlland.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Cong-vien-nuoc-vinpearlland.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/den_tho_nguyen_trung_truc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\den_tho_nguyen_trung_truc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/diem-tham-quan-phu-quoc-1642020-min-1.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\diem-tham-quan-phu-quoc-1642020-min-1.png
+Content Type: image/png
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/diem-tham-quan-phu-quoc-642020-min.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\diem-tham-quan-phu-quoc-642020-min.png
+Content Type: image/png
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/GIA-TOUR-CAP-HE.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\GIA-TOUR-CAP-HE.png
+Content Type: image/png
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/goi-ca-trich-phu-quoc-1_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\goi-ca-trich-phu-quoc-1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/hon-dam-ngang.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\hon-dam-ngang-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/lan-ngam-san-ho-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\lan-ngam-san-ho-phu-quoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/lang-chai-ham-ninh.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\lang-chai-ham-ninh.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/lich-don-xe-buyt-vinpearl-phu-quoc_1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\lich-don-xe-buyt-vinpearl-phu-quoc_1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/nam-tram-phu-quoc-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\nam-tram-phu-quoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/nha-thung-san-xuat-nuoc-mam-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\nha-thung-san-xuat-nuoc-mam-phu-quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/nhom_mua_beyon_yulu_den_tu_nam_phi.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\nhom_mua_beyon_yulu_den_tu_nam_phi.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/rsz_cau-ca-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\rsz_cau-ca-phu-quoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/rsz_nuoi-ngoc-trai-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\rsz_nuoi-ngoc-trai-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/rsz_nuoi-ngoc-trai.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\rsz_nuoi-ngoc-trai-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/safari_phu_quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\safari_phu_quoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/suoi_tranh_phu_quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\suoi_tranh_phu_quoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/tau-cau-ca-lan-ngam-san-ho-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\tau-cau-ca-lan-ngam-san-ho-phu-quoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/tau-du-lich-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\tau-du-lich-phu-quoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/Tau-Nho-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\Tau-Nho-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/thue-tau-cau-2-572020-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\thue-tau-cau-2-572020-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/tour-cap-treo-1-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\tour-cap-treo-1-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/tour-cap-treo-min.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\tour-cap-treo-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/ve-cap-treo-02-chieu-772020-min-3.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\ve-cap-treo-02-chieu-772020-min-3.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/ve-vinwonders-trong-ngay-1272020-min-1.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\ve-vinwonders-trong-ngay-1272020-min-1.png
+Content Type: image/png
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/ve-vinwonders-truoc-ngay-1272020-min-2.png
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\ve-vinwonders-truoc-ngay-1272020-min-2.png
+Content Type: image/png
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/vinpearland-phuquoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\vinpearland-phuquoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/vuon_tieu_phu_quoc.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\vuon_tieu_phu_quoc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/xe-bus-vinpearl-phu-quoc-4.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\xe-bus-vinpearl-phu-quoc-4.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/xe-phuong-trang-VeXeRe-Fl1H06u-1000x600-1.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\xe-phuong-trang-VeXeRe-Fl1H06u-1000x600-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/z1912734385348_8590eac66101261f2f03d0a4c2fb31f6.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\z1912734385348_8590eac66101261f2f03d0a4c2fb31f6.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/z1912734804963_09ad0408f185631f54671cc217be562a.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\z1912734804963_09ad0408f185631f54671cc217be562a.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/z1912734808267_aee43bcb28ce3d054e3962ac477e805b.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\z1912734808267_aee43bcb28ce3d054e3962ac477e805b.jpg
+Content Type: image/jpeg
+
+Uri: https://dulichduchung.vn/wp-content/uploads/2020/07/z1912735234055_6fa1d63200142f4aa0e3b09b0b5d61f3.jpg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\wp-content\uploads\2020\07\z1912735234055_6fa1d63200142f4aa0e3b09b0b5d61f3.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Georgia%2CTimes%2C"Times_New_Roman",serif:regular,700|Roboto:regular,regular,regular,regular&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Pacifico
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6H6Mw.ttf
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\s\pacifico\v22\FwZY7-Qmy14u9lezJ-6H6Mw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdulich6.webtudong8giay.com%252Fbook-ve-may-bay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdulich6.webtudong8giay.com%252Fkinh-nghiem-khi-di-du-lich-phu-quoc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdulich6.webtudong8giay.com%252Fkinh-nghiem-khi-di-vinpearl-land-vinpearl-safari-phu-quoc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdulich6.webtudong8giay.com%252Fnhung-dac-san-khong-the-bo-qua-khi-den-phu-quoc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdulich6.webtudong8giay.com%252Fthue-cano-phu-quoc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdulich6.webtudong8giay.com%252Fthue-tau-cau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdulich6.webtudong8giay.com%252Fthue-xe%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdulich6.webtudong8giay.com%252Fve-cap-treo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdulich6.webtudong8giay.com%252Fve-vinpearlland%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/css/all.css
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/css/v4-shims.css
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\dulich6.webtudong8giay.com\releases\v5.14.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
